@@ -174,8 +174,12 @@ img {
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
-  max-width: 1440px;
+}
+
+.hero .container {
+  max-width: 1158px;
   margin: 0 auto;
+  padding: 0 15px;
 }
 
 .hero-title {
